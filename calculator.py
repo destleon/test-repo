@@ -13,10 +13,10 @@ for number_of_times in range(1,11):
         print(additionop(first_number,second_number))
 
     elif type_of_operation =="-":
-        print(substrction(first_number,second_number))
+        print(substraction(first_number,second_number))
 
     elif type_of_operation =="*":
-        print(multiplication(first_number,second_number))
+        print(multi(first_number,second_number))
 
     else:
         print("no operation selected")
