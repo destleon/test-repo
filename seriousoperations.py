@@ -3,7 +3,6 @@ import math
 
 answer = math.sqrt(100)
 
-help('modules')
 
 
 
